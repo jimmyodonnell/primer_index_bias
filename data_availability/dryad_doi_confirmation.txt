@@ -1,0 +1,44 @@
+from:	help@datadryad.org
+to:	jodonnellbio@gmail.com,
+plosone@plos.org,
+automated-messages@datadryad.org
+date:	Mon, Mar 14, 2016 at 9:02 AM
+subject:	Dryad submission approved doi:10.5061/dryad.mp040
+
+Dear James O'Donnell,
+
+Thank you for your submission to the Dryad repository. Your data package has been approved, and the DOI is now fully registered with the DOI system.
+
+Title: Data from: Indexed PCR primers induce template-specific bias in large-scale DNA sequencing studies
+DOI: doi:10.5061/dryad.mp040
+Journal manuscript number: PONE-D-15-32070
+
+
+CITING YOUR DRYAD DATA
+
+Ensure that readers can find your data!
+
+We recommend that the article include a link to the Dryad data as follows:
+
+Data available from the Dryad Digital Repository: http://dx.doi.org/10.5061/dryad.mp040
+
+Your journal may follow the CrossRef recommendation that the data package be cited in the article Reference list. If so, the citation should include the Dryad package DOI, e.g.:
+
+Author(s) (Year). Data from: Indexed PCR primers induce template-specific bias in large-scale DNA sequencing studies. Dryad Digital Repository. doi:10.5061/dryad.mp040
+
+
+To view your Dryad entry, you may visit the repository at http://datadryad.org
+
+Check out the information for depositors at http://datadryad.org/pages/faq
+- How do I refer to my Dryad data in my article?
+- How can I see how often my data package is viewed and downloaded?
+- How can I add my data package to a Data section on my CV?
+- If my data files are embargoed, when will they be released?
+- and more!
+
+Thanks again for taking this important step to preserve and share your research data.
+
+We welcome your feedback! Contact us at help@datadryad.org.
+
+The Dryad Team
+datadryad.org

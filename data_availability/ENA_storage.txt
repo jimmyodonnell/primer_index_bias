@@ -1,0 +1,61 @@
+Dear Colleague,
+
+Thank you for your recent submission to the European Nucleotide Archive with your account 'Webin-42850'.
+
+I am pleased to advise you that the metadata has passed validation.
+
+Your study accession number is: PRJEB12717.
+Your study unique name is: ena-STUDY-School of Marine and Environmental Affairs-12-02-2016-02:19:09:999-18.
+Your study title is: Sequences produced using indexed (tagged, barcoded) primers in single and double PCR..
+
+We recommend you use the study accession number for publications that refer to the entire dataset associated with this ENA study.
+
+
+Accession numbers of all the objects in your submission are shown further below.
+
+Your sequence data will now be validated and processed. We may need to contact you again if there are any issues with the data files (e.g. corruption during transfer), so please do not delete your data files straight away. For read data you can see the latest status by logging into Webin and going to the ‘Runs’ tab:
+
+https://www.ebi.ac.uk/ena/submit/sra
+
+Your data and metadata will be held private until '11-Apr-2016'.
+
+If you need to extend the release date or release data earlier than your originally set release date:
+[1] Login to Webin (above URL), go to the ‘Studies’ tab and select the ‘Update’ button in the ‘Update release date’ column
+[2] Once you have amended the release date in Webin for your project PRJEB12717, email datasubs@ebi.ac.uk about this change and request to do the same amendment to your sequence data.
+For release date extensions or early release requests, please contact datasubs@ebi.ac.uk at least 2 weeks before the release date expiry.
+
+Release is mandatory once the data is published in a journal.
+
+When referring to your data in publications please provide a direct URL to your
+study accession:
+
+http://www.ebi.ac.uk/ena/data/view/PRJEB12717
+
+and refer to the archive as the European Nucleotide Archive (ENA).
+
+Please DO NOT reply to this email. If you need further assistance, email datasubs@ebi.ac.uk
+with "New submission" in the subject line.
+
+Accession Summary
+---------------
+Study accession Study unique name
+PRJEB12717      ena-STUDY-School of Marine and Environmental Affairs-12-02-2016-02:19:09:999-18
+
+Sample accession        Secondary accession     Sample unique name
+ERS1058986      SAMEA3871852    2014-11-13-lib1
+ERS1058987      SAMEA3871853    2014-11-13-lib2
+ERS1058988      SAMEA3871854    2014-11-13-lib3
+ERS1058989      SAMEA3871855    2015-04-01-lib1
+ERS1058990      SAMEA3871856    2015-04-01-lib2
+
+Study accession Sample accession        Experiment accession    Run accession
+PRJEB12717      ERS1058986      ERX1332076      ERR1260469
+PRJEB12717      ERS1058987      ERX1332077      ERR1260470
+PRJEB12717      ERS1058988      ERX1332078      ERR1260471
+PRJEB12717      ERS1058989      ERX1332079      ERR1260472
+PRJEB12717      ERS1058990      ERX1332080      ERR1260473
+
+
+Kind regards,
+
+European Nucleotide Archive (ENA)

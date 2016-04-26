@@ -1,0 +1,62 @@
+Dear James O'Donnell,
+
+Thank you for your submission to the Dryad repository. Your data package has been approved, and will be available in the repository once the associated article has been published.
+
+Title: Untitled
+DOI: doi:10.5061/dryad.mp040
+Journal manuscript number: PONE-D-15-32070
+
+You will receive another email when your data package is released. If you did not request a data embargo, your file(s) will be available for download after the article is published.
+
+
+CITING YOUR DRYAD DATA
+
+Ensure that readers can find your data!
+
+We recommend that the article include a link to the Dryad data as follows:
+
+Data available from the Dryad Digital Repository: http://dx.doi.org/10.5061/dryad.mp040
+
+Your journal may follow the CrossRef recommendation that the data package be cited in the article Reference list. If so, the citation should include the Dryad package DOI, e.g.:
+
+Author(s) (Year). Untitled. Dryad Digital Repository. doi:10.5061/dryad.mp040
+
+
+Check out the information for depositors at http://datadryad.org/pages/faq
+- How do I refer to my Dryad data in my article?
+- How can I see how often my data package is viewed and downloaded?
+- How can I add my data package to a Data section on my CV?
+- If my data files are embargoed, when will they be released?
+- and more!
+
+Thanks again for taking this important step to preserve and share your research data.
+We welcome your feedback! Contact us at help@datadryad.org.
+
+The Dryad Team
+datadryad.org
+
+
+
+######################################################
+2016-02-11
+Receipt for Data Publishing Charges
+Dryad Digital Repository
+datadryad.org
+
+Thank you for your online payment of the Dryad Data Publishing Charge for the data submission described below:
+
+Received from: James O'Donnell (jodonnellbio@gmail.com)
+
+Dryad submission: null
+
+Payment details:
+
+Payer: James O'Donnell
+Price: $120.0
+Total: $120.0
+
+
+Your data are now securely and permanently archived at datadryad.org.
+
+The Dryad Team
+datadryad.org
